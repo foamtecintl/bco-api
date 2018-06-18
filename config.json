@@ -1,0 +1,6 @@
+{
+    "port":"8090",
+    "databaseName":"sqlite3",
+    "databaseURL":"./database.sqlite",
+    "setUpDatabase":"update"
+}

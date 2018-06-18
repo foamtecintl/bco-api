@@ -1,0 +1,9 @@
+# ignore case
+*.tar
+*.zip
+*.rar
+*.bat
+database.sqlite
+fileUploads
+.DS_Store
+Thumbs.db
